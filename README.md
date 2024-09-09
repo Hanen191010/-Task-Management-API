@@ -79,10 +79,3 @@ This project is a Task Management API built using Laravel as a framework. The AP
     
 8. Access the API endpoints:
     * Use the provided Postman collection to test the API endpoints.
-
-
-### Additional Information
-
-* JSON Schema files for API endpoints will be added soon.
-* More tests will be added to the API.
-* More features like JWT (JSON Web Token) authentication and CORS (Cross-Origin Resource Sharing) will be added later
